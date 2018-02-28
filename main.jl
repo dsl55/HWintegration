@@ -3,7 +3,7 @@
 # repeatedly send this to the REPL
 # to update your code
 
-include("src/HW_int.jl")
+include("src/HWintegration.jl")
 
 # run your tests
 include("test/runtests.jl")
