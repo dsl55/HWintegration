@@ -1,4 +1,7 @@
 
+[![Build Status](https://travis-ci.org/ScPo-CompEcon/HWintegration.svg?branch=master)](https://travis-ci.org/ScPo-CompEcon/HWintegration)
+
+
 # Integration Homework
 
 This repo contains a code scaffold for the integration homework. It will contain the solution to the questions on a branch `solution` in due course.
