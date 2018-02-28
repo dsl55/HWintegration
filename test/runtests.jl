@@ -1,11 +1,23 @@
 
 
-module IntTest
-	using HW_int
-	using Base.Test
+using Base.Test
 
-	@test 1==1
+@testset "HWintegration Unit Tests" begin
+	@testset "testing components" begin
+		@testset "check demand" begin
+			@test 1==1
+		end
 
 
-	
-end 
+		@testset "check gauss adjustment" begin
+		end
+
+		@testset "eqm condition for Q2" begin
+		end
+	end
+
+	@testset "Testing Results" begin
+
+	end
+    
+end
