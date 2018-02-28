@@ -7,7 +7,8 @@ This repo contains a code scaffold for the integration homework. It will contain
 
 * You see here the typical julia package setup with `src` and `test` folder. 
 	* Inside `src` I set up a module for you, with some empty function definitions that you should fill out. 
-	* Inside `test` I set up a test module, where you should place your unit tests. You will get extra points for unit tests.
+	* Inside `test` I set up a test module, where you should place your unit tests. 
+	* You must test the results of each function with a unit test.
 * You don't have to stick the scaffold I give you, but you have to provide a function `runall` that runs all of your questions. This function is currently provided.
 * your answer to each question should be a function.
 * each question should print the desired result to screen, e.g. using the `println` function.
@@ -23,20 +24,8 @@ This repo contains a code scaffold for the integration homework. It will contain
 
 * Deadline is 24h prior to our next class.
 * You must submit your work via pull request.  
+* Take a look back at our initial students website exercise to remind yourself of how that works.
 
-1. Fork this repository (click on **fork** top right of this page; this makes a copy of this repo on your github account [*somewhere in the cloud*])
-1. Go to your fork (it takes you there anyway), and clone your fork to your computer (click on **clone or download**)
-	1. If you installed Github Desktop (recommended), click on "Open in Desktop"
-	1. GitHub Desktop will ask you where you want the repo cloned to. Let's call that location on your computer `x`.
-	1. Navigate to location `x`.
-	1. Do the homework.
-1. Back in Github Desktop: You see it says *1 uncommitted change*. It tells you that the state of the repo changed. good.
-1. write a summary of the change. 
-1. click on *commit to master*. `master` is the default branch on this repo.
-1. Top right in Github Desktop, click on *Pull Request*.
-1. In the comment, let me know who was working together on this homework. You should mention yourself and your collaborator's name with `@your_github_username`. For example, I would write "this was done by @floswald".
-1. Then click *Send Pull Request*.
-1. Done.
 
 
 # License
